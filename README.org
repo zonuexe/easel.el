@@ -1,0 +1,20 @@
+* easel.el
+[[https://github.com/tanksuzuki/easel][easel]] is markdown to HTML Lean Canvas converter.
+
+** Install
+
+ - Download =easel= executable binary file by [[https://github.com/tanksuzuki/easel/releases][Releases · tanksuzuki/easel]]
+
+** Commands
+
+*** =M-x easel-insert-template=
+Insert easel template to current buffer.
+
+*** =M-x easel-watch=
+
+*** =M-x easel-export-to-html=
+
+** Customize
+
+*** =easel-open-browser-when-start-watch=
+To open web browser when set =t=.
